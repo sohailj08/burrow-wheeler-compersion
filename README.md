@@ -1,14 +1,7 @@
-## Welcome to GitHub Pages
+## Welcome to burrow wheeler tranformation
 
-You can use the [editor on GitHub](https://github.com/sohailj08/burrow-wheeler-compersion/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
+This project is about compression and encryption 
+It is build in java by ER sohail javed and team mates
 Syntax highlighted code block
 
 # Header 1
